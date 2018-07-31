@@ -37,8 +37,8 @@ $ cordova platform add ios
 To run in avd
 
 ```sh
-$ ionic run android
-$ ionic run ios
+$ ionic cordova run android
+$ ionic cordova run ios
 ```
 
 ### Build Android APK File
